@@ -19,7 +19,7 @@ It is built to push arcade buttons using the **hockeystick method** (_use of an 
 Managed by Oakley Edington  
 ![Robot picture coming soon][PointyShark Picture]
 
-It is built to push arcade buttons use the **linear pusher method** (_use of a rotational to linear motion converter on a servo_) at each of the ten buttons. Its method of expanding to all the buttons is also the **Dorito method**.
+It is built to push arcade buttons using the **linear pusher method** (_use of a rotational to linear motion converter on a servo_) at each of the ten buttons. Its method of expanding to all the buttons is also the **Dorito method**.
 
 ---
 
